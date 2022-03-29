@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje estou á procura do meu primeiro emprego, de preferência na área de Front-End
-- 🌱 Atualmente estudo JavaScript
+- 🌱 Atualmente estudo HTML, CSS e JavaScript
 - 💬 Contate-me em: luizgabriel1233@gmail.com
 
 <div align="center">
