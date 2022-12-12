@@ -1,8 +1,8 @@
 ### Olá! Meu nome é Luiz Gabriel
 
 
-- 🔭 Hoje estou á procura do meu primeiro emprego, de preferência na área de Front-End
-- 🌱 Atualmente estudo React.JS e Node.JS
+- 🔭 Atualmente trabalho como desenvolvedor Front-End Jr.
+- 🌱 Tenho experiência com React.JS, Tailwind e Laravel
 - 💬 Contate-me em: luizgabriel1233@gmail.com
 
 <div align="center">
